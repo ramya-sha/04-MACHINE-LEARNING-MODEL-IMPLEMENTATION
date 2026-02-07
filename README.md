@@ -10,4 +10,16 @@
 
 *MENTOR* : Neela Santhosh Kumar
 
-DECRIPTION OF THE TASK :
+DECRIPTION OF THE TASK : The system predicts whether an email is spam or non-spam and displays the result along with model accuracy.
+
+Components I used :
+
+Dataset	Collection of emails.
+
+Feature extraction	Convert text to numbers.
+
+Train-test split	Separate data for learning.
+
+Naive Bayes	Simple ML algorithm.
+
+Prediction	Model classifies new email.
