@@ -23,3 +23,7 @@ Train-test split	Separate data for learning.
 Naive Bayes	Simple ML algorithm.
 
 Prediction	Model classifies new email.
+
+*OUTPUT* :
+
+
