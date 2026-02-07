@@ -26,6 +26,6 @@ Prediction	Model classifies new email.
 
 *OUTPUT* :
 
-<img width="1741" height="893" alt="Image" src="https://github.com/user-attachments/assets/f33d4eee-0565-4772-b80d-b1cea1e683ce" />
+<img width="868" height="631" alt="Image" src="https://github.com/user-attachments/assets/678ace58-e205-45f6-a0fd-dde703991ff3" />
 
 
